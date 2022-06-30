@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Daniel Zamperlini
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](./your-header-image-name.png)" alt="my banner">
+<img width="100%" src="file:///C:/Users/danye/Downloads/github-header-image%20(4).png" alt="my banner">
 
 I started studying programming of my own free will and because I'm passionate about technology, at the moment I'm studying at Origamid and also on other platforms
 
