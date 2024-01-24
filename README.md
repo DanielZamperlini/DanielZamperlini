@@ -1,8 +1,6 @@
 # Hi there 👋, My name is Daniel Zamperlini
 
-<img width="100%" src="file:///C:/Users/danye/Downloads/github-header-image%20(4).png" alt="my banner">
-
-I started studying programming of my own free will and because I'm passionate about technology, at the moment I'm studying at Origamid and also on other platforms
+I started studying programming out of my own free will and because I am passionate about technology, I am currently studying ADS at UNIASSELVI, and studying on some teaching platforms such as Origamid and Udemy.
 
 ## 💫 Liitle Bit More About Me
 <p>👯 I want to collaborate on projects to improve my knowledge and learn much more.</p>
